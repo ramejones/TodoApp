@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+
+    <!--<string name="hello_world">Hello world!</string>-->
+    <string name="add_task_title">Add Task</string>
+    <string name="task_title_hint">Enter a Task Name.</string>
+    <string name="add_task_button">Add Task</string>
+    <string name="todo_task_button">Todo Tasks</string>
+    <string name="completed_task_button">Completed Tasks</string>
+
+
+    <string name="title_activity_todo">TodoActivity</string>
+    <string name="title_activity_completed">CompletedActivity</string>
+
+
+    <string name="delete_button">Delete</string>
+    <string name="action_settings">Settings</string>
+</resources>
